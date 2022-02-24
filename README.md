@@ -1,1 +1,2 @@
-# EjercicioCoche-Sergio_Rodriguez
+EjercicioCoche-Sergio_Rodriguez
+Primer ejercicio subido a GitHub
